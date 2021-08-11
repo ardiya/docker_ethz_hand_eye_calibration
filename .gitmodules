@@ -1,0 +1,3 @@
+[submodule "oomact"]
+	path = oomact
+	url = https://github.com/ethz-asl/oomact.git
