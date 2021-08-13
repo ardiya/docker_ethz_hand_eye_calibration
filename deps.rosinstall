@@ -52,7 +52,7 @@
     uri: 'https://github.com/ethz-asl/protobuf_catkin.git'
 - git:
     local-name: hand_eye_calibration
-    uri: 'https://github.com/ethz-asl/hand_eye_calibration.git'
+    uri: 'https://github.com/ardiya/hand_eye_calibration.git'
 - git:
     local-name: catkin_simple
     uri: 'https://github.com/catkin/catkin_simple'
